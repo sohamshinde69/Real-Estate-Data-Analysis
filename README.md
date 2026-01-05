@@ -40,5 +40,12 @@ Longitude	:	75.85% missing data
 Latitude	:	75.85% missing data
 <br>
 <br>
-<h2>Download Link </h2>
+<h2> Conclusion </h2>
+<br>
+This dataset was suitable for exploratory analysis but not for
+predictive modeling. The project demonstrates data understanding,
+cleaning, and analytical decision-making rather than model performance.
+<br>
+<br>
+h2>Download Link </h2>
 <br>https://www.kaggle.com/datasets/derrekdevon/real-estate-sales-2001-2020</br>
