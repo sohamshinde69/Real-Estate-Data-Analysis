@@ -49,4 +49,4 @@ cleaning, and analytical decision-making rather than model performance.
 <br>
 <h2> Download Link </h2>
 <br>
-<br>https://www.kaggle.com/datasets/derrekdevon/real-estate-sales-2001-2020</br>
+https://www.kaggle.com/datasets/derrekdevon/real-estate-sales-2001-2020
